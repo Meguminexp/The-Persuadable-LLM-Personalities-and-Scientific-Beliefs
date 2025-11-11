@@ -41,4 +41,3 @@
 - 实验参考：`LLM Personality & Scientific Belief Robustness Experiment v3` （见源码常量 `EXPERIMENT_REFERENCE`）。  
 - 作者标注：`AUTHOR = "Research Team"`（见 [`main.py`](main.py)）
 
-如需补充 README 或添加使用示例、依赖清单或 CI 配置，请告知要点。
