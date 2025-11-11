@@ -37,6 +37,7 @@
 - 主程序：[main.py](main.py)
 
 引用与作者
+- This is the final project work for CSC5010 NLP. Thanks for the guidance of Prof. Wang Benyou and all TAs.
 - 实验参考：`LLM Personality & Scientific Belief Robustness Experiment v3` （见源码常量 `EXPERIMENT_REFERENCE`）。  
 - 作者标注：`AUTHOR = "Research Team"`（见 [`main.py`](main.py)）
 
